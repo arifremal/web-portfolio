@@ -39,7 +39,7 @@ section{
     
 }
 .dream{
-    background-image: url(images/dream-bg.png);
+    background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -49,7 +49,7 @@ section{
     height: 50%;
 }
 .experience{
-    background-image: url(images/exp-bg.png);
+    background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
     background-color: white;
     padding: auto;
